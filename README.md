@@ -50,7 +50,7 @@ Exam Routine Report:  <br/>
 <br />
 <br />
 Exam Result Report:  <br/>
-<img src="https://i.imgur.com/6kcIQZP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JJrq09K.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
