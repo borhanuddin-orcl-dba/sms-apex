@@ -1,7 +1,6 @@
 <h1>School Management System</h1>
 
  ### [Live Project](https://apex.oracle.com/pls/apex/r/borhanapex86/al-khwarizmi-high-school/login?session=12888719081303)
- ### [YouTube Demonstration](https://www.youtube.com/watch?v=L9XQ_FLgBVo&ab_channel=Md.YameenNayan)
 
 <h2>Description</h2>
  School Management System (SMS) is a software application designed to streamline and automate the day-to-day administrative and academic operations of educational institutions. It provides a centralized platform for managing various functions, including student enrollment, attendance tracking, grade management, and communication between faculty, and students. Here’s a detailed description of the key features and components of a School Management System:
