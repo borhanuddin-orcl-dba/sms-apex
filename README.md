@@ -27,27 +27,26 @@
 
 <p align="center">
 Login Page: <br/>
-<img src="https://imgur.com/9pR8yqn" height="80%" width="80%" alt="Login Page"/>
+<img src="https://i.imgur.com/9pR8yqn.jpeg" height="80%" width="80%" alt="Login Page"/>
 <br />
 <br />
 Home Page:  <br/>
-<img src="https://i.imgur.com/oXWZj1H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IyeupO2.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+<img src="https://i.imgur.com/Xmpk2PN.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+ <img src="https://i.imgur.com/aSIbylp.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Dashboard: <br/>
-<img src="https://i.imgur.com/zGdtdPO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DH8dEQC.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Admission Form:  <br/>
-<img src="https://i.imgur.com/y2noTfP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Attendance Form:  <br/>
-<img src="https://i.imgur.com/0TaKZlT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zPSXZDo.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Exam Routine Report:  <br/>
-<img src="https://i.imgur.com/nHMOQPE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IclA0Sn.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Exam Result Report:  <br/>
