@@ -4,7 +4,7 @@
  ### [YouTube Demonstration](https://www.youtube.com/watch?v=L9XQ_FLgBVo&ab_channel=Md.YameenNayan)
 
 <h2>Description</h2>
-The School Management System is designed to streamline key academic and administrative processes of a school. It enables efficient management of admissions, attendance tracking, exam schedules, and result publication. The system also supports financial operations, including fees and transactions, while providing tools to organize and manage other school-related information. With its intuitive interface and robust features, the system simplifies daily operations and enhances overall efficiency.
+ School Management System (SMS) is a software application designed to streamline and automate the day-to-day administrative and academic operations of educational institutions. It provides a centralized platform for managing various functions, including student enrollment, attendance tracking, grade management, and communication between faculty, and students. Here’s a detailed description of the key features and components of a School Management System:
 <br />
 
 
@@ -27,7 +27,7 @@ The School Management System is designed to streamline key academic and administ
 
 <p align="center">
 Login Page: <br/>
-<img src="https://i.imgur.com/Hz9Qhhx.png" height="80%" width="80%" alt="Login Page"/>
+<img src="https://imgur.com/9pR8yqn" height="80%" width="80%" alt="Login Page"/>
 <br />
 <br />
 Home Page:  <br/>
